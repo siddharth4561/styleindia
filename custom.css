@@ -1,0 +1,31 @@
+body
+{
+    color: rgba(32, 25, 46, 0.89);
+    
+  
+}
+hr
+{
+    border-style: dotted none none none;
+    border-width: 10px;
+    width: 7%;
+}
+
+/* classes */
+
+.client-details
+{
+    color: coral;
+}
+
+
+.visiting
+{
+  width:20% ;
+}
+.heading{
+    text-decoration: underline;
+}
+.frame{
+    border-style: dotted none dotted none;
+}
